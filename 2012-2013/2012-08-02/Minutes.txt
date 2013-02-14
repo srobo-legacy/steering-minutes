@@ -1,0 +1,141 @@
+Brief Minutes from 02/08/2012
+
+- Purpose of SC meetings
+
+-- Need reason for meeting before it is made.
+-- Decisions
+-- Steering committee informing people of what we are doing. Direction of SR.
+-- Making sure things get done/attention. Medium/longer term decisions.
+
+- Does entire SC know what they are doing?
+-- More on the wiki? Roles are what you make them. In conclusion, yes.
+
+-- More list stuff
+
+- SR2013 timeline
+  -- Kick-start
+  -- Techdays
+  -- Competition
+  -- Dates picked. Tech days
+  -- Need venue before place. First setup day - setting up, second day - run through, making sure everything works, run through of compd, human sanity check on schedule.
+
+- Syseng
+-- Spec for processes as services and engineering stuff. Defining them.
+-- Defined process for changing things. Dev resources, student resources, other resources.
+-- What completion something should be before shipped. Define when it's complete enough to be exposed to students. When things are "ready"
+-- Review document by everyone, signed by steering committee.
+-- Small patches by ack, big patches by meeting after a few weeks on the email list.
+-- Big feature changes.
+
+- User management. Page needs to be done! Replace all of the paper/manual creation of accounts.
+-- Currently: School emails us with details, Conversation between: wrong information, etc.
+-- All users forget stuff. Email Dialogue is not efficient.
+-- Media consent adds onto this.
+-- SPEC for new system needs to be made
+-- Team leader -- Has control over entire team.
+-- List of users that are in the team, can inform students off their username and edit, etc.
+-- School with two teams - Spec point allowing teachers to swap
+
+- Linode.
+-- Turns everyone into sysadmin work.
+-- Test stuff without having a login on production
+-- Or LDAP manager.
+-- Allows everyone to do this.
+-- Soon!
+
+- Outreach stuff
+-- New magnitude of stuff - Smallpiece
+-- Too some feels like "Happening covertly"
+-- Contention for resources - dev kits. Being used for these events
+-- Bestival - Not many people know what it even is.
+-- Need more publicity to Student Robotics.
+-- Not enough Kit?
+-- No information on who's involved, what kits involved, etc.
+-- SR resources and people
+-- Discussion on what event is.
+-- All information should be publically available.
+-- News feed after
+-- Conclusion: People need to know more, list more details.
+-- Community needs to know more.
+-- Spec is needed for hardware allocation for these events
+
+- Blue shirt Apathy
+-- Same people doing the same things,
+-- New people not getting involved as much
+-- People tend to disappear
+-- Recruiting?
+-- Need to get people into schools fast, drives attention.
+-- Pair, new person and person who've done it before.
+-- Sam’s: "We've going to build a robot event" after volunteering event.
+-- Some people need hard core dev, some people we need to get to mentor.
+-- Main problem is retaining people once they're interesting.
+-- Need more mentors in Southampton.
+-- Need to increase enthusiasm.
+
+- Recruitment
+-- Name badge, one per team, interact, details on list
+-- Events capture a lot of people.
+-- All agreed, this should/will happen.
+
+- Jumpstart.
+-- Alistair has replied.
+-- 27 Sept.
+-- Try to get a talk. Run with the faire, at a lunch time.
+-- Good for recruiting in Bristol, not so work in Southampton.
+-- Getting stands at things.
+
+-- More ex competitors get them into it
+-- Non student people?
+-- Pushing things SR has made to the internet/dev scene more. Libkoki, IDE etc.
+
+- Teams for this year
+-- 36 teams is target
+-- 13 Registers so far, kick-start is back later so we have more time
+-- Sam’s "thing" - Graphic Science - Helping recruitment.
+-- 58 Kits in total when new parts arrive.
+-- 2014, 56 is target still.
+-- 2015, 81 teams on current curve.
+
+- ECS internships.
+-- EE because we need electronics experience.
+-- Idea was to assemble kits, not dev software.
+-- Andy B is doing a month of work since last week; stuff will be on the list.
+
+- Going over some of the post competition breakdown to make sure some of it happens this year.
+-- Stuff being fixed
+-- List of priorities to be done soon.
+-- Feedback into a poll
+
+
+- New SR Branches.
+-- No pressure, getting them to do small things like Mentoring a single school and CRB.
+-- Not calling it a branch until a bit after.
+-- Encourage to find schools nearby
+
+- Engineering meet ups?
+-- Mumble or something, scheduled, not a doing or a meeting, just to get things discussed. Specifics and technicalities of things such as the IDE to be discussed.
+
+
+- SR2013 Selection process
+-- Date all proposals by
+-- Vote by voting system
+-- Game is decided
+-- Proposal is email to the list
+-- Time after this is for designing the rules
+-- Recommendations by the SC?
+-- Steering committee modify after voting.
+-- Ending is on 31st.
+
+
+- IDE replacement thing
+-- Cloud9 and Collide are not ready for SR.
+-- We could dev collide to work.
+-- Split IDE and GIT. Less maintenance.
+-- Bug free.
+-- IE is horrible. But we cannot stop supporting it.
+
+- Social events
+-- Movies
+-- Pub
+-- Hike/Boat
+-- Building robots
