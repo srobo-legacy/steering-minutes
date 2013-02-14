@@ -1,0 +1,89 @@
+Commitee meeting Minutes
+
+Treasurers and reelections for the positions (5 minutes)
+
+Replace Edd, don't change until after the competition in case of Barclays screwing up forms.
+Method: Pick someone and ask if they want to do it. 
+Resolution: defer choice of replacement until next meeting.
+
+How much kit we are building for next year, can we order it now? (10 minutes)
+
+Money isn't an issue, our current money is for next year.
+Scarzy has generated a situation for closing budget lines.
+10%s on closed budget lines make up for missing money for next year's kit.
+Clarification: building to make up 54 kits + spares for next KickStart.
+Budget reflects replacement of JIO with Arduino. Work is needed to make it emulate a JIO via some firmware.
+Motor board replacement possible but increasingly unlikely.
+Resolution: fully tested by the end of July for the new motor board
+We should talk to Rich. Rob might join once PhD is done.
+Resolution: start kit manufacture shortly after Competition
+
+
+Competition and kickstart at Bristol (5 minutes)
+
+Discuss on list
+Needs someone taking an active role in Bristol
+Could be at places other than Bristol
+Could drift Londonwards or generally towards centre of country
+Accommodation for Blueshirts
+Still do have a reasonable number of people in Soton
+Nail down criteria on Venue
+Resolution: list
+
+
+Which budget lines can be closed (10 minutes)
+
+Can we close the 2012 budget lines?
+
+Resolution: create a second account, with a card, with £500 kept in it (or other amounts put in when earmarked for specific purchases to enable the card to be used) to happen concurrently with changing treasury
+Resolution: close the 2012 budget lines
+One debit card to each treasurer (each signatory).
+
+Charity situation (5 minutes)
+
+Rob intends to work on the charity situation
+Teachers from schools as trustees?
+Team Leaders as members of charity?
+Resolution: defer until after Rob's PhD is done
+
+Shirts (5 minutes)
+
+Shirts should have year and branches removed
+Remove sponsors from shirts?
+Resolution: get 8 medium, 5 large without branch list and with sponsors (including BitBox)
+
+Agreement on hosting smallpiece - Will drag ABusse into the meeting for this. (10 minutes)
+
+Smallpeice - ran it last year
+ (not nearly long enough - disaster averted, just)
+We have more control this year - 5 day course
+~50 kids (10 teams of 5 using SR kit)
+Blueshirts + helpers on hand
+5 days for Robot + competition
+Year 11s + sixth formers
+Everything outside of the university is handled by the Smallpeice Trust
+Smallpeice are guaranteeing for kit repair
+Andy & Alistair will repair kit
+Inventory must be maintained
+Resolution: Smallpeice Trust permitted to use SR's name and kit as long as responsibility is taken over their good use
+29th of July - 2nd of August
+We should recruit 1st year Elecs
+
+Recruitment (10 minutes)
+
+Virtually no recruitment in Southampton
+Must get people involved in projects immediately
+Sam finds people respond well to Python Koans and motivational first Doing
+Find things people can do without needing a lot of kit or tools
+We must prepare more for getting people involved
+Vision as a possible inroad
+"Pairing up" between experienced people and newbies?
+  - Rob tried to get small projects like this in groups some time ago
+
+Any other business
+
+CRB situation - community volunteering are now being strict in Soton
+Now done in the student services building
+Rob thinks he can sort something out
+Not a terrible thing if we go through the formal channels
+Let's go through the formal channels
