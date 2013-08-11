@@ -1,0 +1,194 @@
+Steering Committee meeting 30/07/13
+
+Present: Andy Cottrell, Jeremy Morse, Sam Phippen, Rob Spanton, Richard Barlow
+Missing: Lilafisch
+
+-- More regular things --
+
+Problem with getting new people involved in a sane way.
+Get thrust into the IRC channel then no collaberation or attitude towards SR.
+
+Need more regular things to get people involved all over: 
+ * video conferences/voice
+ * more a human sensation in volunteering
+ * confusing for new comers. 
+ * progression for new volunteers
+ * need more roles
+ * more structure
+ * training/making people knowing what they can do
+
+We don't really have a presense/office for it all.
+
+* badges or something
+* what it means, how you get it, how its tested
+* more general training on sr things
+* Documentation and process
+
+Mailing list in a month or so.
+
+--Plan for next year--
+
+What we each want to do for the next year:
+
+-Sam:-
+Planning things for the next year
+* Kickstart
+** Room booking
+** things to do for competitors
+
+* Tech days 
+** at lots of locations
+
+* Internet access for everything
+* Tech days for example, more logical approach
+* Easily feesible everywhere
+
+* Competition
+** Lots of people to help
+** Trying to keep everything public
+
+Confident all these events can be organised without people being on fire
+How do we avoid this? No real good answer currently.
+
+-Jeremy:-
+
+* Schools have signed up
+* 14 places left currently ish
+* Large interacting around september, mainly surrey
+* More posters, advertising, etc
+* Delegating some stuff out, all teachers like having a good communication with, splitting this up could be helpful, to be more managable.
+* Keeping up with schools cannot be done by one person
+* 35 signed up, some more very likely too.
+* sam: some people from london hackerspace interested
+* Not including any double teams from a school, not aiming for it.
+* mentoring may be avaible inside the m25
+
+-Rich:-
+
+* kit preperation for kickstart
+* working on designing a new power board and servo board for sr2015.
+* talking to ceed studios about getting the motorboard made by them, so that we can just buy more/other people can buy more.
+* motorboards are being made at this moment
+
+Any software development? 
+* IDE, website stuff, simulators? Not been thought about yet
+* Sam said pete should be hopefully doing some competition software before the competition
+
+Rob on software: 
+
+* Looking more at software sides on the robots
+* Quite a lot of change to be done for tablets and wifi and such
+* IDE needs more work, hard to change or get lots of work done
+* Requirements on trac
+* talking to it from external programs
+
+-Rob on his position:-
+
+* We have enough money for this year and start next year with the same number of teams as this year
+* got some contacts through a conference
+* networking stuff happening
+* charity status stuff, later on agenda
+* more generally, adjusting how the volunteering for SR works
+* without more sponsorship, cannot expand for sr2015, but will safely stay the same. same kit too. 
+* kit and new teams with more money after
+* venue stuff, has £12000 for venue in currently.
+
+-Andy:-
+
+* Pushing social media lots, as obvious
+* getting some posters about
+* issues with social media and interactions with students
+* trying to find all blogs and such who will be interested 
+* getting media to the competition
+* lots of people interested in lots of videos this year, ollie, simon
+
+--Budget mods--
+
+Why do they take so long to get through?
+Emailing people, human interaction and computer interaction.
+People could email committee@
+more prompting
+Automating the checking of price
+
+Not always knowledgeable in the situation, for big changes or hard choices.
+budget mods need to be done more
+
+
+--Facebook--
+   
+Interaction with minors
+- everyone manages to do it
+- some legal problems?
+
+facebook page is public representation
+
+interacting with everyone
+
+quantity not quality - a stream of just random content?
+
+What is the fundamental that facebook page and facebook page that some guy has made about student robotics
+- the people who are in student robotics work on it regularly, know a lot more, knowledge locked up in the brains. we have inside knowledge. We're not a faceless organisation. extra insite into the internals. 
+- the point is semi back and forth, sharing content. Student Robotics community behind it. 
+- how do you vet someone to be on it
+- what do we do if someone posts something that we shouldn't approve of
+-- trust in the community?
+
+email others on how to do it
+
+--Charity stuff--
+
+* getting status
+* set of trustees, some who are team leaders? won't be linked to steering committee. 
+* post upcoming about it and the general process
+
+--Blueshirt recruitment--
+
+* email to jeremy, about bunfight and talks and such
+* doings arent enjoyable for some
+* cant change culture
+* more targets
+
+--kit preperation--
+* octoberish time to be ready for
+* lots of tickets
+* a lot of work to do
+* need lots of people to work on it
+* hard to get more people to do them
+* meetings based on this
+* needs more asking specific people of if they can do it
+* batteries
+* consumer electronics, we're buying in a lot of stuff. 
+* these are not easy in bulk
+* some companies only sell to to companies
+* sole traders?
+
+
+--Venue--
+* outgrown southampton
+* money towards venue allocated
+* universities arent the best position to run things well.
+* Newbury Racecourse, two floors, discounts for not for profit, 3500~4000 pd. 
+* Old Truman Brewery, london. similar price. some pillars in the way.
+* end of doing things of a rubbish manner
+* investigate susu but not major
+
+--Smallpiece--
+* it's happening
+* they have our kit and blueshirts doing stuff on it atm
+* should we be using our resources more on us, not in it?
+* srobo for 12-16
+* adults, paid to enter?
+
+
+
+--Treasurers--
+
+* Nominate treasurers then public vote
+* Rob and Rich. 
+
+
+
+Next meeting planned, approximately three weeks
+
+
+
