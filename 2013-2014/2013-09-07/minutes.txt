@@ -1,0 +1,37 @@
+Steering Committee meeting 30/07/13
+
+Present: Andy Cottrell, lilafisch
+Missing: Jeremy Morse, Sam Phippen, Rob Spanton, Richard Barlow
+
+Jeremy was available but there was no topic involving on his activities.
+
+
+
+-- Agenda --
+Nothing from the agenda was discussed.
+
+- distributed kickstart
+- Recording talks
+- competition date
+- venue update
+- how to spread kits
+- how to get blueshirts to do more things/ what do the answers to the email concerning blueshirt involvement mean?
+
+
+
+-- Munich Updates --
+
+- munich list
+  -> https://groups.google.com/forum/#!forum/srobo-de 
+- Munich University supporting SR officially
+- However we have to start an 'eingetragener Verein' to make it legal, and to have an organization that can receive money
+- we'll be using srobo.pads.ccc.de for this
+
+
+
+-- Branches --
+
+- Redoing https://www.studentrobotics.org/about/how_to_help
+- More documentation of branches on the website
+- More cross branch meetings
+- munich is currently using google hangouts for this
