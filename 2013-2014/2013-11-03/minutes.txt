@@ -3,7 +3,7 @@ present: sam, rich, rob, lilafisch
 excused: jeremy, andy
 
 TODO:
-> ticket: storage facility options
+> ticket: storage facility options -> #2082
 > ticket: insurance for kit, dev-kit
 > ticket: define how dev-kit is handed to people
 > research on being a charity: rob is doing this, his status is documented on $wiki page
