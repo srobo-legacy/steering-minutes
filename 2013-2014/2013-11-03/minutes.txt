@@ -1,0 +1,128 @@
+Protocol 2013-11-03
+present: sam, rich, rob, lilafisch
+excused: jeremy, andy
+
+TODO:
+> ticket: storage facility options
+> ticket: insurance for kit, dev-kit
+> ticket: define how dev-kit is handed to people
+> research on being a charity: rob is doing this, his status is documented on $wiki page
+> mail to the list about charity: collect all existing knowledge/resources on this topic
+
+==== the future of the vault
+* vault too small
+* what do we use the vault for storing?
+-> kit for schools/shipping, spares
+-> $stuff for competition, kickstart
+-> arena parts
+-> stuff that we 'don't relly need'
+-> dev kit
+
+* What is regularly used at doings:
+-> dev kit
+-> stuff that we 'don't really need'
+* What should probably also stay close:
+-> $stuff for events
+* What should go somewhere else:
+-> kit for schools/shipping, spares
+spares should be separate, so they don't get mixed with dev-kit
+
+Options:
+* hire storage
+-> harder to get to
+-> ca. £200/??AREA/Month
+-> expansion can happen within the storage thing
+-> comes with insurance
+-> probably best option
+
+* someones garage/shed
+-> one person at least has always access to it
+-> does it exist?
+-> reliability (long term)?
+
+* Access for storage?
+- spare kit doesn't have to be accessed often (ca. 10/year currently, might increase)
+- access for competition things only ca. 1week around competition
+- assembly of kit? depends a lot on how kit assembly is organized in the future, but also quite restricted in time
+
+-> ticket: research storage facilities
+
+
+=== managing the kit
+* bristol only has one of last years dev kit
+* should have more, current
+* #dev kit on paper: 18
+* reality: ? (spares and dev were not appropriately sepparated)
+* how we decide where dev kit goes?
+* someone needs to take responsibility
+* a person/multiple people who make sure that the kit is treated under insurable coditions
+* the ideal would be that everyone can get to kit at doings
+* lilafisch proposed to give up on a small number of kit (5 of 18) and just put them in well accessible places
+* kit should get insurance?!
+
+-> ticket: research insurance options for kit
+
+* for now: no insurance, people have responsibility
+* where is noted who is responsible? -> trac page?
+* attribute for the whole kit assembly
+
+Southampton can have two kit, if someone comes forward to being responsible for that kit.
+-> ticket: define how dev-kit is handed to people
+
+=== How we ensure that stock is organised properly after events (Smallpeice, Science Days, etc.), and that it still exists.
+* events happen (kickstart, summerschool, competition,...)
+* everything ends up in the vault in an undefined state
+* competition isn't over when awards are handed out, but when we are at an ordered state.
+-> additional roadmap point for each event: cleanup after event
+
+=== competition location update
+> motorola answer should have been there 2 weeks ago, 'next couple of weeks'
+> newbry and london 
+> london has too many pillars, probably won't work
+> several can go for a visit to newbry once the money is there
+> newbry might not be free, alternatives will be discussed when this is clear
+
+=== what does the new location involve in addition
+> rent van for getting stuff
+> coaches to drive blueshirts daily from bristol, southampton
+> students union can help with transporting blueshirts from bristol to newbry
+> lighting (volunteers with theater knowledge exist)
+> food availability
+> hotels?
+-> pushed after booking of location (finances and availability of location then)
+
+=== charity state of SR (lay out basic steps that need to happen, hopefully  more blueshirts can get involved in making them happen)
+charity would be nice because we
+- become a legal entity
+- more reasonable applying for funding
+- current funding will be easier to receive
+- disclaimer form gets easier
+
+what needs to happen?
+> correct structure (no corruption)
+> we need trustees (similar to board of directors, take respronsibility, above steering committee)
+   - volunteers
+   - team leaders
+> we need to write a legal document
+sam might be abled to set something up with a lawyer
+email: rob is doing this, his status is documented on $wiki page
+
+=== Smallpeice 2015
+> david o. doesn't like how smallpeice is currently running
+> could be done in cooparation with farnbourough air show (?)
+> work at southampton university, competition at the air show
+> thing at the air show is SR branded
+
++ student robotics would be at the air show, when school children + teachers are there
++ teams from previous competition could be invited
++ no loss for SR, everything over smallpeice
++ might attract new volunteers
++ does support the purpose of SR
++ SR would appear as SR (not smallpeice) at the air show
+
+- currently disorganized
+- kit is in a disorganized state after event
+- students actually pay for it atm
+student robotics should not look bad...
+
+> rob volunteers to organize this and get smallpeice integrated in SR
