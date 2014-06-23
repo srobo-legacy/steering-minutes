@@ -1,0 +1,153 @@
+==== 23rd of July, 20:00 to 21:37 ====
+===== topics =====
+- what is going on towards charity?
+- how to get more volunteers involved
+- how to get new volunteers better involved in our work
+- Kickstart
+- how/where is the next competition going to be (at least there were some mentions that this is happening?)
+- competition travel/accomodation cost?
+- number of arenas?
+- maybe some info about the internships?
+- next committee election
+
+==== towards charity ====
+- see email(s)
+- working to get it sorted out sooner rather than later, so we can get funding
+- rich, jeremy, rob are well aware of risks
+
+==== how to get more volunteers involved ====
+- 'official training'
+- what types of volunteers?
+   * helping out at comp, kickstart, technical things, mentoring?
+- we take on volunteers and expect them to do anything -> maybe more explicit labeling?
+  mentors shouldn't need to use any tools -> what about inventory? nope, they can ask others about that
+- badges? some mark you had training?
+- southampton training last year: kickstart games, quiz (kit assembled with mistakes, game questions)
+- how to get introduction to mentors?
+  > hangouts?
+  > where multiple mentors are: event
+  > 'training pack'?
+  > mentors: looking out to visit a team
+  > make sure they feel they are supported
+  > weekly hangout?
+  > people need to be persuaded that they want to be mentored
+  > send people in a pair (done so in bristol, southampton)
+  > expectation: they should know more than the people they are mentoring - which isn't true
+- how do we get more people persuaded to be mentors?
+- what do we do with a new person who wants to be a mneotr (NOT put them on the mailing list)
+  > no expectation to be on trac, gerrit, doings...
+  > all we want: go to schools, mentor, fill out mentor form after
+  > two forms: how do I become a mentor; how do I mentor
+- put these docs on the website
+- how to keep track of mentors -> sign up system
+- use tech days to have mentor training
+
+==== Kickstart ====
+will happen soon
+- multiple kickstart event
+- new format is nice
+- where are the kickstarts going to be
+   > greshams no longer an option
+   > cambridge? - they want students down in southampton
+   > bristol! (JHacker, TJones gone)
+   > Southampton!
+   > Munich!
+- Southampton was too big, schools came there even with closer kickstarts
+- complex link: which locations, how many teams, funding situation
+- Bristol could take 15 to 20 teams
+- schools should be assigned kickstart
+- kickstart 'in your school' has different feeling
+- event next door vs 50 miles away
+- if the distance is so important, then we're doing something wrong
+- make the location special: not a school but uni, a workplace, ...
+- people should apply?
+  > complexity!
+- assigned kickstarts?
+  > people can still complain and we deal with it
+  > not rigid
+! General agreement: we assign Kickstart to teams, it's not rigid
+
+LOCATIONS
+- Southampton UNI
+- Bristol UNI
+- Munich UNI
+- School John Bartlett moved to (Southend) SCHOOL
+- Oxford? Place with computers? HSO? White October? COMPANY
+- London? Shoredich Some place with computer already? Steve, Howard, Rob, Sam
+- Guildford
+  
+PRESENTATION
+- Southampton presentations were not great
+- rob greatly improvised his presentation
+- we need peope able to deliver the presentation well, sufficiently practiced
+-> the presentation needs to be ready earlier
+> overarching information requirement
+> centralised slide deck bad idea
+> quality of presentation can be dealt with before hand by humans
+> ask people to do presentations two weeks beforehand in front of some local people
+> locally!
+> how do we make sure there is a general good style
+> choose some people as subcommitee to provide feedback
+- why not have a recording of the practice rounds and have those as an option in case there is no speaker
+- recordings don't have the same impact
+- lilafisch disagrees strongly, the video recordings in Munich were always great
+- but we can do it without video too!11
+
+===== Next competition =====
+- repeat this years search
+- the earlier the better
+- are we growing out of Newbury
+  >  yes, the free spaces were mainly due to teams dropping out
+  > middle floor can't fit too many people
+- ideally: one floor, larger
+- depends on how funding works out > charity
+
+===== Mentors can claim their travel budget for general mentoring =====
+- the money is now in existance, blueshirts can claim it
+- will be in next SRAWN
+- if you know trac, make a purchase ticket
+- send scanned copies to treasurers@
+
+===== Competition Travel/Accomodation =====
+- blueshirts were discomforted about unknown location due to uncertainty how to get to comp
+- everyone agrees that we should do it
+- what is a reasonable way to do it
+- individual travel is not the way to go
+  > will not be available to people who are not in main branches
+  > waste of volunteer time sitting in a car every day
+  > organisational overhang
+- accomodation
+  > what is reasonable about claiming these things
+  > assigned shifts, n shifts = competition cost taken care off
+  > budget/number of volunteers we can fund
+  > how many volunteers do we _need_
+  > funding if you signed up sufficiently in advance -> good for group booking
+  > we need a similar tag like for mentoring
+  > we need an introduction how to be a competition volunteer
+
+===== How many arenas =====
+- TWO
+- we had about 1.5 times as many matches than in 2013
+- the times between matches would be increased
+- less specs about arena in the docs/rules -> space for us to design better arena space
+- teams left before the end because they thought they could not watch the finals
+===== Internships =====
+- we have internships
+- uncertainty until recently: funding
+- large amount of confusion due to bad communication
+- Tom Leese, Giorgos do internships
+- Giorgos: dataset of battery discharge profiles, so we can have battery charge state
+- Tom: Interface on tablets in next years kit
+
+===== Next commitee election =====
+- charity will change structure of organisation
+- we should wait until we have the charity
+- filing paperwork: soon
+- getting it back: ~ 1.5 months
+- we don't want to have significant change without jeremy
+- if it all comes down to it, we can go on to the kickstart as we are
+
+
+TODO
+>> make the documents for mentors, competition volunteers
+>> tracking system vfor volunteers >> tags what they are doing
